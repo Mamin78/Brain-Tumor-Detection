@@ -1,4 +1,4 @@
-# Brain-Tumor-MRI-Classification
+# Brain-Tumor-Detection
 <p align="center">
       <img src="https://github.com/Mamin78/Brain-Tumor-MRI-Classification/blob/main/img.jpg" alt="Brain-Tumor-MRI-Classification">
 </p>
