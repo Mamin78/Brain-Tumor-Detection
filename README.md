@@ -1,6 +1,6 @@
 # Brain-Tumor-MRI-Classification
 <p align="center">
-      <img src="[http://material-bread.org/logo-shadow.svg](https://github.com/Mamin78/Brain-Tumor-MRI-Classification/blob/main/img.jpg)" alt="Brain-Tumor-MRI-Classification">
+      <img src="https://github.com/Mamin78/Brain-Tumor-MRI-Classification/blob/main/img.jpg" alt="Brain-Tumor-MRI-Classification">
 ![Brain-Tumor-MRI-Classification](https://github.com/Mamin78/Brain-Tumor-MRI-Classification/blob/main/img.jpg)
 </p><br />
 This project uses a ResNet18 model in order to predict whether a given MRI image shows the patient has a Brain Tumor or not. There are four classes in the dataset, including glioma, meningioma, notumor, and pituitary. I found the [dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) on [the Kaggle](https://www.kaggle.com) website.
